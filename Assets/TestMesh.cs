@@ -28,6 +28,8 @@ public class TestMesh : MonoBehaviour {
 		mesh.vertices = vertices;
 		mesh.triangles = triangles;
 		mesh.colors = colors;
+		mesh.uv = new Vector2[] {new Vector2(0, 0), new Vector2(0, 5), new Vector2(5, 5)};
+		//mesh.uv
 	}
 	
 	// Update is called once per frame
