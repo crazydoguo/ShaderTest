@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Shaders_CgTutorial\Cg_C3E2_Varying.shader">
+    <Files>
+      <File FileName="Assets\Cha_Data\Shader\WrapLambert.shader" Line="8" Column="41" />
+      <File FileName="Assets\builtin_shaders-4.6.3\DefaultResourcesExtra\Flare.shader" Line="1" Column="1" />
+      <File FileName="Assets\_Shaders_CgTutorial\Cg_C3E2_Varying.shader" Line="57" Column="4" />
+      <File FileName="Assets\TestMesh.cs" Line="20" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

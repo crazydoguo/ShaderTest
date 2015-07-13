@@ -1,0 +1,64 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-5028
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=439 outsize=1185 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4216 outsize=2607 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4216 outsize=1242 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2255 outsize=2875 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2255 outsize=1542 kw=POINT ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1783 outsize=1477 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1783 outsize=632 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3968 outsize=2883 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3968 outsize=1152 kw=LIGHTMAP_OFF DIRLIGHTMAP_OFF HDR_LIGHT_PREPASS_OFF ok=1
+Cmd: preprocess
+  insize=922 outsize=399 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (50): undeclared identifier 'col'
+  api=4 type=0 insize=822 outsize=0 kw= ok=0
+Cmd: preprocess
+  insize=941 outsize=399 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=841 outsize=876 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=841 outsize=567 kw= ok=1
+Cmd: preprocess
+  insize=948 outsize=399 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=876 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=567 kw= ok=1
+Cmd: preprocess
+  insize=948 outsize=399 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=848 outsize=876 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=848 outsize=567 kw= ok=1
+Cmd: preprocess
+  insize=944 outsize=393 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=849 outsize=876 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=849 outsize=567 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=2257 outsize=1851 kw=DIRECTIONAL ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=2257 outsize=1193 kw=DIRECTIONAL ok=1
+Cmd: preprocess
+  insize=790 outsize=240 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=847 outsize=876 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=847 outsize=567 kw= ok=1
+Cmd: preprocess
+  insize=949 outsize=398 ok=1
+Cmd: preprocess
+  insize=941 outsize=399 ok=1
